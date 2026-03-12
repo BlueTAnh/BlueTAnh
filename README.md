@@ -46,7 +46,7 @@ Technologies:
 
 ## 📫 Contact
 
-GitHub: https://github.com/BlueTAnh
-LinkedIn: https://www.linkedin.com/in/tuan-anh-mai
-Facebook: https://www.facebook.com/share/1GNi8cLUaz/
+- GitHub: https://github.com/BlueTAnh
+- LinkedIn: https://www.linkedin.com/in/tuan-anh-mai
+- Facebook: https://www.facebook.com/share/1GNi8cLUaz/
 
